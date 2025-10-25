@@ -1,0 +1,29 @@
+# Object files
+*.o
+**/.o
+# Libraries
+*.lib
+*.a
+
+# Shared objects (inc. Windows DLLs)
+*.dll
+*.so
+*.so.*
+*.dylib
+
+# Executables
+*.exe
+*.out
+*.app
+*.hex
+*.bin
+*.elf
+*.map
+*.bat
+*.txt
+FreeRTOS/
+Libraries/
+Project/
+Listing/
+Output/
+.DS_Store
